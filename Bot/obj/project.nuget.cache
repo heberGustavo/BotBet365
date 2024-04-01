@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eASk/AHR2mx8aCsjAs7KFYWV4pqW+p+dn4msEhcp02e2uG2LFOTSs+pw4strC9zj0XBtbX/VQrJhWGzeeyZoEw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\C-Sharp\\OTHERS\\Automation\\BotBet365\\Bot\\Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heber Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Heber Gustavo\\.nuget\\packages\\selenium.support\\4.18.1\\selenium.support.4.18.1.nupkg.sha512",
+    "C:\\Users\\Heber Gustavo\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512",
+    "C:\\Users\\Heber Gustavo\\.nuget\\packages\\selenium.webdriver.chromedriver\\122.0.6261.11100\\selenium.webdriver.chromedriver.122.0.6261.11100.nupkg.sha512"
+  ],
+  "logs": []
+}
